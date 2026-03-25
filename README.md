@@ -71,4 +71,4 @@ Works in the following languages:
 
 ## License
 
-Your choice (for example: MIT).
+- MIT
