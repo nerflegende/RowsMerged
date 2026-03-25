@@ -17,7 +17,7 @@ The script runs in the browser and only operates on the user interface:
 
 ## Requirements
 
-- Jellyfin Web (in a browser)
+- Jellyfin Web (in a browser, mobile app); not tested with other clients
 - An installed JS injector
 
 ## Installation (JS Injector)
